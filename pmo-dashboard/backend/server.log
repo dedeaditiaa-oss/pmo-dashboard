@@ -1,0 +1,8 @@
+Seed complete! 35 employees, 10 projects, and allocations created.
+
+Load distribution:
+  Available: 4
+  Busy: 10
+  Full Load: 13
+  Overloaded: 5
+PMO Dashboard API running on http://localhost:3001
